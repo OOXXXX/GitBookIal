@@ -5,3 +5,4 @@
 * [🍈 Mathematics](mathematics.md)
 * [🍅 Physics](physics.md)
 * [🥝 Psychology](psychology.md)
+* [🚲 Readme](readme.md)
