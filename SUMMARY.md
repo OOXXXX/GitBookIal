@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📃 PaperHub](README.md)
-* [🍊 Business](<README (1).md>)
+* [🍊 Business](business.md)
 * [🍉 Economics](economics.md)
 * [🍈 Mathematics](mathematics.md)
 * [🍅 Physics](physics.md)
