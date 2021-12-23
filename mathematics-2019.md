@@ -4,7 +4,7 @@ description: '2019'
 
 # 🍈 Mathematics（2019）
 
-## QP :
+## QP:
 
 {% file src=".gitbook/assets/C12(WMA0101)_QP_201901.pdf" %}
 
@@ -26,7 +26,7 @@ description: '2019'
 
 {% file src=".gitbook/assets/S2(WST0201)_QP_201901.pdf" %}
 
-## MS : &#x20;
+## MS: &#x20;
 
 {% file src=".gitbook/assets/C12(WMA0101)_MS_201901.pdf" %}
 
