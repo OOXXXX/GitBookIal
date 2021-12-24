@@ -1,5 +1,5 @@
 ---
-description: Building an online container for saving tons of paper
+description: An online container for saving tons of paper
 ---
 
 # 📃 PaperHub
