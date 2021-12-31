@@ -10,5 +10,6 @@
 * [🥑 Mathematics (2017)](mathematics-2017.md)
 * [🥭 Mathematics (2016)](mathematics-2016.md)
 * [🍇 Mathematics(2015)](mathematics-2015.md)
+* [🫒 Mathematics(2014)](mathematics-2014.md)
 * [🍅 Physics](physics.md)
 * [🥝 Psychology](psychology.md)
